@@ -1,4 +1,4 @@
-
+@smoke
 
 Feature: As a librarian, I want to know who is the most popular user
   @db
